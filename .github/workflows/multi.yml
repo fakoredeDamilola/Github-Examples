@@ -1,3 +1,5 @@
+name: multiple events
+
 on:
   push:
     branches:
