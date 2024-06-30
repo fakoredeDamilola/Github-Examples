@@ -3,7 +3,7 @@
 There is a hidden folder called `.git` which tells you that our project is a git repo.
 
 If we wanted to create a git repo in a new project we' create the folder and the initalize that repo using `git init`
-
+ other changes
 ```
 mkdir /workspaces/tmp/new-project
 cd /workspaces/tmp/new-project
