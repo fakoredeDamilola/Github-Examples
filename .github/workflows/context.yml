@@ -8,4 +8,4 @@ jobs:
         steps:
             - name: "My Step"
               run: |
-                echo "Hello! {github.action}"
+                echo "Hello! {{github.action}}"
